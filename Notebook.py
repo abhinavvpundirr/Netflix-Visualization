@@ -35,7 +35,7 @@ plt.scatter(netflix_movies_col_subset['duration'],netflix_movies_col_subset['rel
 
 # Create a title and axis labels
 plt.title('Movie duration by year of release')
-plt.xlabel('Duration(hours)')
+plt.xlabel('Duration(Mins)')
 plt.ylabel('Release Year')
 
 # Show the plot
